@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Balamurali Ragupathi </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/bmuralir/">LinkedIn</a> |
+  <a href="https://github.com/bmuralir">GitHub</a>
+  
+  <br>   
+  I'm working on MicroServices, Cloud, BigData, AI & ML.
+  I have more than 20 years of experience in building robust 
+  technology solutions for the Mutual Fund RTA platform.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
